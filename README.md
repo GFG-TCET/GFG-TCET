@@ -17,7 +17,7 @@
 
 - 🌱 Our Motive is to Help Every Students in Fulfilling their **Dreams** 
 
-- 👨‍💻 Visit our Website [Here](https://gfg-tcet.netlify.app/)
+- 👨‍💻 Visit our Website [Here](https://gfgtcet.netlify.app/)
 
 - 📫 How to reach us **gfgstudentchapter.tcet@gmail.com**
 
